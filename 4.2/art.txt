@@ -1,0 +1,16 @@
+ThreadPool with 1 jobs: 57.0058 sec
+ThreadPool with 2 jobs: 55.9525 sec
+ThreadPool with 4 jobs: 55.7699 sec
+ThreadPool with 6 jobs: 55.7564 sec
+ThreadPool with 8 jobs: 55.6535 sec
+ThreadPool with 10 jobs: 55.8077 sec
+ThreadPool with 12 jobs: 59.0405 sec
+ThreadPool with 14 jobs: 59.5519 sec
+ProcessPool with 1 jobs: 57.8128 sec
+ProcessPool with 2 jobs: 30.9470 sec
+ProcessPool with 4 jobs: 19.5259 sec
+ProcessPool with 6 jobs: 16.4376 sec
+ProcessPool with 8 jobs: 15.8645 sec
+ProcessPool with 10 jobs: 16.2479 sec
+ProcessPool with 12 jobs: 15.2919 sec
+ProcessPool with 14 jobs: 15.3415 sec

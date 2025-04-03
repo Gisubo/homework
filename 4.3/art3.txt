@@ -1,0 +1,9 @@
+BO
+[2025-04-03 23:53:33] Sent to Process A: BO
+DO
+[2025-04-03 23:53:35] Sent to Process A: DO
+do
+[2025-04-03 23:53:35] Sent to Process A: do
+[2025-04-03 23:53:38] Process B received: ob
+[2025-04-03 23:53:43] Process B received: qb
+[2025-04-03 23:53:48] Process B received: qb
